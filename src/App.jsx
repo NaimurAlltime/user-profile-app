@@ -1,4 +1,5 @@
 import "./App.css";
+import UserProfileList from "./components/UserProfileList/UserProfileList";
 
 function App() {
   return (
@@ -11,6 +12,9 @@ function App() {
           </h2>
         </div>
         <div className="border-t-2 border-gray-600 mx-auto w-72"></div>
+        <div>
+          <UserProfileList />
+        </div>
       </div>
     </>
   );
