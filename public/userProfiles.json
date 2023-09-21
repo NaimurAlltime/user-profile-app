@@ -2,7 +2,7 @@
   {
     "id": "1",
     "profilePhoto": "https://img.freepik.com/premium-photo/portrait-handsome-young-man-standing-outdoors-created-with-generative-ai_762026-23792.jpg?size=626&ext=jpg&ga=GA1.1.209329912.1680195530&semt=ais",
-    "coverPhoto": "https://img.freepik.com/premium-photo/hipster-traveler-backpacker-standing-alone-edge-pier-staring-lake-mountains-enjoying-beautiful-freedom-moment-life-serene-quiet-peaceful-atmosphere-nature-back-view_122732-4177.jpg?size=626&ext=jpg&ga=GA1.1.209329912.1680195530&semt=ais",
+    "coverPhoto": "https://img.freepik.com/free-photo/man-standing-front-wooden-fences-surrounded-by-hills-forests-covered-snow_181624-11534.jpg?w=900&t=st=1695303081~exp=1695303681~hmac=c7213e556cfd5017cecb643931aa99a1581d887006b87d2d796762af3b8e3d5b",
     "name": "John Doe",
     "email": "john.doe@example.com",
     "phone": "+1 (123) 456-7890",
@@ -13,8 +13,8 @@
   },
   {
     "id": "2",
-    "profilePhoto": "https://via.placeholder.com/150",
-    "coverPhoto": "https://img.freepik.com/free-photo/stylish-boy-posing-with-lake-background_1153-779.jpg?w=900&t=st=1695296227~exp=1695296827~hmac=726cd3aa2172dfb71c0a369b4f2f62a69e044b3237597bb2e4e9dfa998c39373",
+    "profilePhoto": "https://img.freepik.com/free-photo/woman-portrait-walking-street_1328-3258.jpg?size=626&ext=jpg&ga=GA1.1.209329912.1680195530&semt=ais",
+    "coverPhoto": "https://img.freepik.com/premium-photo/traveler-girl-standing-alone-edge-pier-staring-lake-mountains-enjoying-beautiful-freedom-moment-life-serene-quiet-peaceful-atmosphere-nature-back-view_122732-4144.jpg?w=900",
     "name": "Jane Smith",
     "email": "jane.smith@example.com",
     "phone": "+1 (987) 654-3210",
@@ -134,7 +134,7 @@
   {
     "id": "12",
     "profilePhoto": "https://img.freepik.com/premium-photo/outdoor-portrait-attractive-stylish-short-cut-woman_222877-3400.jpg?size=626&ext=jpg&ga=GA1.1.209329912.1680195530&semt=ais",
-    "coverPhoto": "hhttps://img.freepik.com/premium-photo/young-girl-walks-through-city_164411-124.jpg?size=626&ext=jpg&ga=GA1.1.209329912.1680195530&semt=ais",
+    "coverPhoto": "https://img.freepik.com/premium-photo/girl-hat-from-back_651454-1544.jpg?size=626&ext=jpg&ga=GA1.1.209329912.1680195530&semt=ais",
     "name": "Sophia Hernandez",
     "email": "sophia.hernandez@example.com",
     "phone": "+1 (888) 777-9999",

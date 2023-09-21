@@ -22,9 +22,7 @@ const UserProfileCard = ({ user }) => {
           />
         </div>
 
-        <h2 className="text-xl font-semibold mt-4">
-          {user.firstName} {user.lastName}
-        </h2>
+        <h2 className="text-xl font-semibold mt-4">{user.name}</h2>
         <p className="text-gray-600">{user.email}</p>
       </div>
 

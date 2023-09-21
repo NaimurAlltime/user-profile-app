@@ -11,31 +11,31 @@ const UserProfileDetail = () => {
           />
         </div>
         <div className="mt-4 md:mt-0">
-          <div className="flex items-center gap-2 font-medium text-lg">
+          <div className="flex items-center gap-2 font-semibold text-gray-700 text-xl">
             <img src="/card.png" className="h-5" alt="" />
             <h4>Name: Naimur Rahman</h4>
           </div>
-          <div className="flex items-center gap-2 font-medium text-lg mt-1">
+          <div className="flex items-center gap-2 font-medium text-lg text-gray-700 mt-1">
             <img src="/gmail.png" className="h-5" alt="" />
             <p>Email: naim22315@gmail.com</p>
           </div>
-          <div className="flex items-center gap-2 font-medium text-lg mt-1">
+          <div className="flex items-center gap-2 font-medium text-lg text-gray-700 mt-1">
             <img src="/phone-call.png" className="h-5" alt="" />
             <p>Phone: +01983835382</p>
           </div>
-          <div className="flex items-center gap-2 font-medium text-lg mt-1">
+          <div className="flex items-center gap-2 font-medium text-lg text-gray-700 mt-1">
             <img src="/mortarboard.png" className="h-5" alt="" />
             <p>Education: BSc in Computer Science and Engineering</p>
           </div>
-          <div className="flex items-center gap-2 font-medium text-lg mt-1">
+          <div className="flex items-center gap-2 font-medium text-lg text-gray-700 mt-1">
             <img src="/couple.png" className="h-5" alt="" />
             <p>Married Status: Single</p>
           </div>
-          <div className="flex items-center gap-2 font-medium text-lg mt-1">
+          <div className="flex items-center gap-2 font-medium text-lg text-gray-700 mt-1">
             <img src="/policeman.png" className="h-5" alt="" />
             <p>Profession: Full Stack Developer</p>
           </div>
-          <div className="flex items-center gap-2 font-medium text-lg mt-1">
+          <div className="flex items-center gap-2 font-medium text-lg text-gray-700 mt-1">
             <img src="/map.png" className="h-5" alt="" />
             <p>Location: Konabari, Gazipur, Dhaka</p>
           </div>
