@@ -1,4 +1,5 @@
 import { BsArrowRightShort } from "react-icons/bs";
+import { Link } from "react-router-dom";
 
 const UserProfileCard = ({ user }) => {
   return (
@@ -28,10 +29,12 @@ const UserProfileCard = ({ user }) => {
       </div>
 
       {/* Details Button */}
-      <button className="absolute bottom-4 flex items-center justify-center right-4 bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 focus:outline-none">
-        Details
-        <BsArrowRightShort className="text-xl  font-medium" />
-      </button>
+      <Link to="/profile-details">
+        <button className="absolute bottom-4 flex items-center justify-center right-4 bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 focus:outline-none">
+          Details
+          <BsArrowRightShort className="text-xl  font-medium" />
+        </button>
+      </Link>
     </div>
   );
 };
